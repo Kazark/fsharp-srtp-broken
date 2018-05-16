@@ -1,0 +1,7 @@
+.vs/
+lib/
+bin/
+obj/
+*.exe
+*.dll
+packages/
